@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/status-in--progress-orange?style=flat-square)
+
 # 🏡 Ultimate Zillow FSBO Scraper
 
 An advanced, stealth-powered Zillow FSBO scraper that:
